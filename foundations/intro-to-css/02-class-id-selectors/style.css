@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.odd{
+    background-color: lightcoral;
+}
+
+#id1{
+    color: blue;
+    font-size: 4rem;
+}
+
+#id2{
+    background-color: lightgreen;
+    font-size: 3rem;
+}
