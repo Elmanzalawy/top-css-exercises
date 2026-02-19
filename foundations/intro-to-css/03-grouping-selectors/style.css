@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+button{
+    font-size: 1.5rem;
+    border: none;
+    cursor: pointer;
+}
+
+.firstButton {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+}
+
+.secondButton {
+    background-color: yellow;
+    color: black;
+    padding: 1rem;
+}
